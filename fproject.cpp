@@ -7,8 +7,8 @@ int main(){
 
 Calories c;
 c.setAge(4);
-cout << c.getAge();
+cout << c.getAge() << endl;
  c.setBirthday();
- cout<<c.getAge();
+ cout<<c.getAge() << endl;
 return 0;
 }
