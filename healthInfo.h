@@ -1,3 +1,6 @@
+#ifndef healthInfo
+#define healthInfo
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -75,6 +78,8 @@ int weight;
     int womenRate;
     int menRate;
 };
+
+#endif
 
 /*Statistics Weight,height etc...................*/
 
